@@ -5,9 +5,9 @@
 * [2020](#2020)
 ## 2021
 ### Pathfinding algorithms
-
+<p align="center">
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker.gif)
-
+</p>
 
 
 * [**Try it**]()
@@ -22,7 +22,7 @@
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(1).gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/dead-mans-handle)
-* <a href="https://whiskey-bar.itch.io/dead-mans-handle" target="_blank">**Try it**</a>
+
 
 
 ## 2020
