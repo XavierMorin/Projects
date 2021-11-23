@@ -1,9 +1,10 @@
 # Projects
 ## Table of contents
-* [2021](#2021)
-  * [Game Jams](#Game-Jams)
-* [2020](#2020)
-## 2021
+* [Academic](#Academic)
+  * [Pathfinding(#Pathfinding-algorithms)
+* [Game Jams](#Game-Jams)
+  * [Death man's handle(#Death-man's-handle)
+## Academic
 ### Pathfinding algorithms
 
 
@@ -18,8 +19,8 @@
 
 
 
-### Game Jams
-#### Death man's handle
+## Game Jams
+### Death man's handle
 
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(1).gif)
 <br />
@@ -27,5 +28,5 @@
 
 
 
-## 2020
+
 
