@@ -28,14 +28,14 @@
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(1).gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/dead-mans-handle)
---
+<hr>
 ### The nightmare of Sainte-Catherine
 
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(3).gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/the-nightmare-of-sainte-catherine)
 
---
+<hr>
 ### La taverne des animaux
 
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(2).gif)
