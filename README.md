@@ -2,6 +2,7 @@
 ## Table of contents
 * [Academic](#Academic)
   * [Pathfinding](#Pathfinding-algorithms)
+  * [Monet CycleGan](#Monet-CycleGan)
 * [Game Jams](#Game-Jams)
   * [Death man's handle](#Death-man's-handle)
   * [The nightmare of Sainte-Catherine](#The-nightmare-of-Sainte-Catherine)
@@ -18,6 +19,15 @@
 * [**Try it**]()
 
 * [**See GitHub**](https://github.com/XavierMorin/Pathfinding)
+### Monet CycleGan
+
+
+
+![timeline](https://user-images.githubusercontent.com/56797234/143079248-2e08c969-6222-4f7d-816d-b7da0df13abe.png)
+
+
+* [**See GitHub**](https://github.com/XavierMorin/MonetCycleGan)
+
 
 
 
