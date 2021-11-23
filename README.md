@@ -28,6 +28,7 @@
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(1).gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/dead-mans-handle)
+<hr>
 </hr>
 ### The nightmare of Sainte-Catherine
 
@@ -35,6 +36,7 @@
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/the-nightmare-of-sainte-catherine)
 
+<hr>
 </hr>
 ### La taverne des animaux
 
