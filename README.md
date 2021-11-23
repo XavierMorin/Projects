@@ -2,6 +2,7 @@
 ## Table of contents
 * [Academic](#Academic)
   * [Pathfinding](#Pathfinding-algorithms)
+  * [Eternity](#Eternity)
   * [Monet CycleGan](#Monet-CycleGan)
 * [Game Jams](#Game-Jams)
   * [Death man's handle](#Death-man's-handle)
@@ -19,11 +20,22 @@
 * [**Try it**]()
 
 * [**See GitHub**](https://github.com/XavierMorin/Pathfinding)
+
+### Eternity
+
+![128573357-ddb20ba3-a0d7-4d74-b538-6d6854112d86](https://user-images.githubusercontent.com/56797234/143095087-c8c49a6b-8b08-43e7-a486-9a240e2ff08f.png)
+
+* [**See GitHub**](https://github.com/XavierMorin/MonetCycleGan)
+
+
+
+
+
 ### Monet CycleGan
 
 ![Fire](https://user-images.githubusercontent.com/56797234/143079354-9223d72c-8eda-4284-b1b2-07ee0959fb6e.png)
 
-* [**See GitHub**](https://github.com/XavierMorin/MonetCycleGan)
+* [**See GitHub**](https://github.com/weibolu-rm/ETERNITY)
 
 
 
