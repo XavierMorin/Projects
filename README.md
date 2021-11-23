@@ -22,8 +22,8 @@
 * [**See GitHub**](https://github.com/XavierMorin/Pathfinding)
 
 ### Eternity
-<img src="https://user-images.githubusercontent.com/56797234/143095087-c8c49a6b-8b08-43e7-a486-9a240e2ff08f.png" alt="drawing" width="200"/>
-![128573357-ddb20ba3-a0d7-4d74-b538-6d6854112d86](https://user-images.githubusercontent.com/56797234/143095087-c8c49a6b-8b08-43e7-a486-9a240e2ff08f.png)
+<img src="https://user-images.githubusercontent.com/56797234/143095087-c8c49a6b-8b08-43e7-a486-9a240e2ff08f.png" alt="drawing" width="600"/>
+
 
 * [**See GitHub**](https://github.com/XavierMorin/MonetCycleGan)
 
