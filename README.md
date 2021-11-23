@@ -1,4 +1,8 @@
 # Projects
+## Table of contents
+* [2021](#2021)
+* [Game Jams](#Game-Jams)
+* [2020](#2020)
 ## 2021
 ### Pathfinding algorithms
 
