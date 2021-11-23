@@ -26,6 +26,12 @@
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/dead-mans-handle)
 
+### La taverne des animaux
+
+![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(2).gif)
+<br />
+* [**Try it**](https://whiskey-bar.itch.io/la-taverne-des-animaux)
+
 
 
 
