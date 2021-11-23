@@ -22,7 +22,7 @@
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(1).gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/dead-mans-handle)
-* <a href="http://google.com/" target="_blank">example</a>
+* <a href="http://google.com/" target="_blank">**example**</a>
 
 
 ## 2020
