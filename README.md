@@ -1,2 +1,5 @@
 # Projects
-Some projects to show case some abilities...
+## 2021
+### Path finding algorithms
+### Game Jams
+## 2020
