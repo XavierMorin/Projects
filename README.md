@@ -6,8 +6,11 @@
 ## 2021
 ### Pathfinding algorithms
 <p align="center">
-![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker.gif)
+  <img width="200" src="https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker.gif" alt="Material Bread logo">
 </p>
+<br />
+![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker.gif)
+
 
 
 * [**Try it**]()
