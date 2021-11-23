@@ -1,9 +1,9 @@
 # Projects
 ## Table of contents
 * [Academic](#Academic)
-  * [Pathfinding(#Pathfinding-algorithms)
+  * [Pathfinding](#Pathfinding-algorithms)
 * [Game Jams](#Game-Jams)
-  * [Death man's handle(#Death-man's-handle)
+  * [Death man's handle](#Death-man's-handle)
 ## Academic
 ### Pathfinding algorithms
 
