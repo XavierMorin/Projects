@@ -12,7 +12,7 @@
 ### Pathfinding algorithms
 
 
-![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker.gif)
+![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(4).gif)
 
 
 
