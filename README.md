@@ -4,8 +4,9 @@
   * [Pathfinding](#Pathfinding-algorithms)
 * [Game Jams](#Game-Jams)
   * [Death man's handle](#Death-man's-handle)
-  * [La taverne des animaux](#La-taverne-des-animaux)
   * [The nightmare of Sainte-Catherine](#The-nightmare-of-Sainte-Catherine)
+  * [La taverne des animaux](#La-taverne-des-animaux)
+  
 ## Academic
 ### Pathfinding algorithms
 
