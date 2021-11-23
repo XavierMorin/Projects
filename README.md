@@ -4,13 +4,11 @@
 ![Screenshot 2021-11-23 101501](https://user-images.githubusercontent.com/56797234/143051750-f7a9bde3-b767-40da-82a8-84656c33672f.png)
 ![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker.gif)
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Try it: 
+https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+See git repository: 
+https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 
 
 
 ### Game Jams
