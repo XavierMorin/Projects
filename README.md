@@ -21,9 +21,6 @@
 * [**See GitHub**](https://github.com/XavierMorin/Pathfinding)
 ### Monet CycleGan
 
-
-
-![timeline](https://user-images.githubusercontent.com/56797234/143079248-2e08c969-6222-4f7d-816d-b7da0df13abe.png)
 ![Fire](https://user-images.githubusercontent.com/56797234/143079354-9223d72c-8eda-4284-b1b2-07ee0959fb6e.png)
 
 * [**See GitHub**](https://github.com/XavierMorin/MonetCycleGan)
