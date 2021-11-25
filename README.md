@@ -61,7 +61,7 @@
 
 ### La taverne des animaux
 
-![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(2).gif)
+![](https://github.com/XavierMorin/Projects/blob/main/Gifs/La%20taverne%20des%20animaux%20-%20gif.gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/la-taverne-des-animaux)
 
