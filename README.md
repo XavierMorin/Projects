@@ -48,7 +48,7 @@
 ## Game Jams
 ### Death man's handle
 
-![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(1).gif)
+![](https://github.com/XavierMorin/Projects/blob/main/Gifs/Death%20man's%20handle%20-%20gif.gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/dead-mans-handle)
 
