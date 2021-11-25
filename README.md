@@ -27,8 +27,8 @@
 <img src="https://user-images.githubusercontent.com/56797234/143134378-e3545b1b-7d93-41fc-9716-8184f9d09657.png" alt="Eternity_2" width="500"/>
 </p>
 
+* [**See GitHub**](https://github.com/weibolu-rm/ETERNITY)
 
-* [**See GitHub**](https://github.com/XavierMorin/MonetCycleGan)
 
 
 
@@ -38,7 +38,8 @@
 
 ![Fire](https://user-images.githubusercontent.com/56797234/143079354-9223d72c-8eda-4284-b1b2-07ee0959fb6e.png)
 
-* [**See GitHub**](https://github.com/weibolu-rm/ETERNITY)
+
+* [**See GitHub**](https://github.com/XavierMorin/MonetCycleGan)
 
 
 
@@ -54,7 +55,7 @@
 
 ### The nightmare of Sainte-Catherine
 
-![](https://github.com/XavierMorin/Projects/blob/main/ezgif.com-gif-maker%20(3).gif)
+![](https://github.com/XavierMorin/Projects/blob/main/Gifs/Le%20cauchemar%20de%20Sainte-Catherine%20-%20gif.gif)
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/the-nightmare-of-sainte-catherine)
 
