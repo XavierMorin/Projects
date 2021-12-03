@@ -17,7 +17,7 @@
 
 
 
-* [**Try it**]()
+* [**Try it**](https://x-morin.itch.io/pathfinding)
 
 * [**See GitHub**](https://github.com/XavierMorin/Pathfinding)
 
