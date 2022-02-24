@@ -49,9 +49,9 @@
 ## Game Jams
 ### Hanoi Driver: Lái xe điên
 
-![](https://github.com/XavierMorin/Projects/blob/main/Gifs/Death%20man's%20handle%20-%20gif.gif)
+![](https://github.com/XavierMorin/Projects/blob/main/Gifs/Hanoi%20Driver%20_%20L%C3%A1i%20xe%20%C4%91i%C3%AAn.gif)
 <br />
-* [**Try it**](https://whiskey-bar.itch.io/dead-mans-handle)
+* [**Try it**](https://whiskey-bar.itch.io/hanoi-driver)
 
 ### The nightmare of Sainte-Catherine
 
