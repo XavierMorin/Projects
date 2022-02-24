@@ -53,13 +53,6 @@
 <br />
 * [**Try it**](https://whiskey-bar.itch.io/hanoi-driver)
 
-### The nightmare of Sainte-Catherine
-
-![](https://github.com/XavierMorin/Projects/blob/main/Gifs/Le%20cauchemar%20de%20Sainte-Catherine%20-%20gif.gif)
-<br />
-* [**Try it**](https://whiskey-bar.itch.io/the-nightmare-of-sainte-catherine)
-
-
 ### Death man's handle
 
 ![](https://github.com/XavierMorin/Projects/blob/main/Gifs/Death%20man's%20handle%20-%20gif.gif)
