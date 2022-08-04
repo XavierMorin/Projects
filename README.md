@@ -5,7 +5,7 @@
   * [Eternity](#Eternity)
   * [Monet CycleGan](#Monet-CycleGan)
 * [Game Jams](#Game-Jams)
-  * [Hanoi Driver: Lái xe điên](#Hanoi-Driver:-Lái-xe-điên)
+  * [Hanoi Driver: Lái xe điên](#Death-man's-handle)
   * [Death man's handle](#Death-man's-handle)
   * [The nightmare of Sainte-Catherine](#The-nightmare-of-Sainte-Catherine)
   * [La taverne des animaux](#La-taverne-des-animaux)
